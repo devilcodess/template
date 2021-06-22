@@ -1,0 +1,27 @@
+{
+  "name": "Ayme's Bot",
+  "version": "1.0.0",
+  "description": "" ,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.5.3",
+    "quick.db": "^7.1.2",
+    "randomstring": "^1.2.1",
+    "sourcebin_js": "^0.0.2",
+    "is-url": "^1.2.4",
+    "twemoji-parser": "^13.0.0"
+  },
+  "devDependencies": {
+    "ascii-table": "0.0.9",
+    "colors": "^1.4.0"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
